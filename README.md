@@ -1,2 +1,2 @@
 # Awesome Premake
-Awesome Premake is a project made to give developers using Premake5 as their build system more easy to set up library choices.
+Awesome Premake is a project made to give developers using Premake5 as their build system more easy to set up library choices. I do this to make premake more accesable to peoble as you obviouly can't mix premake with it's more popular opponent CMake. The reason i also do this is because of is that most peoble use Visual Studio and CMake bloats it with not needed projects. So basically what i do is that i take the buildfiles that not are written in Premake, creates a fork of that repository and makes a premake script.
